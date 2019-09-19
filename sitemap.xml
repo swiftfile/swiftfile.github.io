@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://swiftfile.github.io/categories/</loc>
+    <loc>http://swiftfile.github.io/</loc>
+    <lastmod>2019-09-19T22:56:28+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://swiftfile.github.io/</loc>
+    <loc>http://swiftfile.github.io/posts/</loc>
+    <lastmod>2019-09-19T22:56:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://swiftfile.github.io/posts/profile/</loc>
+    <lastmod>2019-09-19T22:56:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://swiftfile.github.io/categories/</loc>
   </url>
   
   <url>
