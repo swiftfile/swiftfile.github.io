@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Moyo</title>
-    <link>http://swiftfile.github.io/posts/</link>
+    <link>https://swiftfile.github.io/posts/</link>
     <description>Recent content in Posts on Moyo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Sep 2019 22:56:28 +0900</lastBuildDate>
     
-	<atom:link href="http://swiftfile.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://swiftfile.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Profile</title>
-      <link>http://swiftfile.github.io/posts/profile/</link>
+      <link>https://swiftfile.github.io/posts/profile/</link>
       <pubDate>Thu, 19 Sep 2019 22:56:28 +0900</pubDate>
       
-      <guid>http://swiftfile.github.io/posts/profile/</guid>
+      <guid>https://swiftfile.github.io/posts/profile/</guid>
       <description>テスト</description>
     </item>
     
